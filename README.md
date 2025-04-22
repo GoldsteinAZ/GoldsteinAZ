@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">My name is Adam and I'm a Full-Stack Developer with a strong focus on building scalable web applications using Java, Spring Boot, and React. <br><br>I’m always looking to collaborate on meaningful projects and contribute to open-source initiatives.<br><br>Feel free to connect with me.</p>
+<p align="left">My name is Adam and I'm a Full-Stack Developer with a strong focus on building scalable web applications using Java, Spring Boot, and React. <br><br>I’m always looking to collaborate on meaningful projects and contribute to open-source initiatives.</p>
 
 ###
 
-<h2 align="left">Languages and tools:</h2>
+<h2 align="left">💻 Tech Stack:</h2>
 
 ###
 
@@ -43,13 +43,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
 ###
@@ -76,5 +76,13 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GoldsteinAZ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h2 align="left"></h2>
+
+###
+
+<p align="left">📫 If you want to get in touch, feel free to message me!</p>
 
 ###
