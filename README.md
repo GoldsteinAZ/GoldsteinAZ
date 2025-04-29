@@ -47,7 +47,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/adam-zieli%C5%84ski-b69002200?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdedRyRDbRyi1IBWcue8eKQ%3D%3D" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:adam.pziel987@gmail.com" target="_blank">
